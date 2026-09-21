@@ -1,0 +1,6 @@
+{
+  "name": "All Country Flags Battle",
+  "description": "Real-time physics survival battle where country flags bounce inside a circular arena with left and right escape exits until one champion remains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
